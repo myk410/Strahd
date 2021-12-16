@@ -1,7 +1,7 @@
 [
 	{
-		"id":1
-		"title":"Strahd"
+		"id":1,
+		"title":"Strahd",
 		"sessions":[
 			{
 				"id":1,

@@ -147,6 +147,14 @@
 				"highlights":[""],
 				"date":[8,1,2020],
 				"url":"https://feeds.soundcloud.com/stream/1186787809-g-michael-fortin-avatar-03.mp3"
+			},
+			{
+				"id":4,
+				"title":"Avatar 04",
+				"description":"",
+				"highlights":[""],
+				"date":[8,9,2020],
+				"url":"https://feeds.soundcloud.com/stream/1186798714-g-michael-fortin-avatar_04.mp3"
 			}
 		]
 	}

@@ -119,5 +119,35 @@
 				"url":"https://feeds.soundcloud.com/stream/1180519078-g-michael-fortin-strahd-012.mp3"
 			}
 		]
+	},
+	{
+		"id":2,
+		"title":"Avatar: The Last Airbender",
+		"sessions":[
+			{
+				"id":1,
+				"title":"Avatar 01",
+				"description":"",
+				"highlights":[""],
+				"date":[7,25,2020],
+				"url":"https://feeds.soundcloud.com/stream/1186787824-g-michael-fortin-avatar_night-1.mp3"
+			},
+			{
+				"id":2,
+				"title":"Avatar 02",
+				"description":"",
+				"highlights":[""],
+				"date":[7,26,2020],
+				"url":"https://feeds.soundcloud.com/stream/1186787818-g-michael-fortin-avatar_night-2.mp3"
+			},
+			{
+				"id":3,
+				"title":"Avatar 03",
+				"description":"",
+				"highlights":[""],
+				"date":[8,1,2020],
+				"url":"https://feeds.soundcloud.com/stream/1186787809-g-michael-fortin-avatar-03.mp3"
+			}
+		]
 	}
 ]

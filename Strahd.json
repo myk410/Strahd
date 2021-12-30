@@ -155,6 +155,62 @@
 				"highlights":[""],
 				"date":[8,9,2020],
 				"url":"https://feeds.soundcloud.com/stream/1186798714-g-michael-fortin-avatar_04.mp3"
+			},
+			{
+				"id”:5,
+				"title":"Avatar 05”,
+				"description":"",
+				"highlights":[""],
+				"date”:[8,16,2020],
+				"url":"https://feeds.soundcloud.com/stream/1187635891-g-michael-fortin-avatar-05.mp3"
+			},
+			{
+				"id”:6,
+				"title":"Avatar 06”,
+				"description":"",
+				"highlights":[""],
+				"date”:[8,22,2020],
+				"url":"https://feeds.soundcloud.com/stream/1187637106-g-michael-fortin-avatar-06.mp3"
+			},
+			{
+				"id”:7,
+				"title":"Avatar 07”,
+				"description":"",
+				"highlights":[""],
+				"date”:[9,1,2020],
+				"url":"https://feeds.soundcloud.com/stream/1187635627-g-michael-fortin-avatar-07.mp3"
+			},
+			{
+				"id”:8,
+				"title":"Avatar 08”,
+				"description":"",
+				"highlights":[""],
+				"date”:[9,8,2020],
+				"url":"https://feeds.soundcloud.com/stream/1187636905-g-michael-fortin-avatar-08.mp3"
+			},
+			{
+				"id”:9,
+				"title":"Avatar 09”,
+				"description":"",
+				"highlights":[""],
+				"date”:[9,12,2020],
+				"url":"https://feeds.soundcloud.com/stream/1187637805-g-michael-fortin-avatar-09.mp3"
+			},
+			{
+				"id”:10,
+				"title”:”How Not to Free a Town”,
+				"description":"",
+				"highlights”:[“The gang attempts to team up with children to rid the town of fire nation control”,”Things do not go as planned”],
+				"date”:[9,17,2020],
+				"url":"https://feeds.soundcloud.com/stream/1187638516-g-michael-fortin-avatar-10-how-not-to-take-a-town.mp3"
+			},
+			{
+				"id”:11,
+				"title”:”The Great Escape”,
+				"description":"",
+				"highlights”:[“After facing certain death the gang fatefully escapes the Fire Nation”],
+				"date”:[9,19,2020],
+				"url":"https://feeds.soundcloud.com/stream/1187638348-g-michael-fortin-avatar-11-the-great-escape.mp3"
 			}
 		]
 	}

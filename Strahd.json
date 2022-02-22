@@ -141,6 +141,22 @@
 				"highlights":[""],
 				"date":[1,31,2022],
 				"url":"https://feeds.soundcloud.com/stream/1207509202-g-michael-fortin-strahd-015.mp3"
+			},
+			{
+				"id":16,
+				"title":"Let It Burn",
+				"description":"",
+				"highlights":["One third of the town burned. Unfortunately only some of the records could be recovered from this session."],
+				"date":[2,7,2022],
+				"url":"http://enuestudios.com/DND/Strahd/Strahd 016.mp3"
+			},
+			{
+				"id":17,
+				"title":"Clash with the New Regime",
+				"description":"",
+				"highlights":[""],
+				"date":[2,15,2022],
+				"url":"http://enuestudios.com/DND/Strahd/Strahd 017.mp3"
 			}
 		]
 	},

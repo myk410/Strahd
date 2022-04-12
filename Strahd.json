@@ -29,7 +29,7 @@
 			},
 			{
 				"id":4,
-				"title":"Interview with a Vampire",
+				"title":"Interview With a Vampire",
 				"description":"",
 				"highlights":[""],
 				"date":[10,8,2021],
@@ -85,7 +85,7 @@
 			},
 			{
 				"id":11,
-				"title":"Viva La Résistance",
+				"title":"Viva la Résistance",
 				"description":"",
 				"highlights":["Ernst helps us escape Izek and his guards.","Gaetano posses as a bum to throw off guards.","We are brought to Lady Watcher and are introduced to the resistance.",
 					     "Lady watcher commissions us to capture the Burgomaster, Baron Vargas Vallakovich, and kill Izek for the murder of her husband."],
@@ -120,7 +120,7 @@
 			},
 			{
 				"id":13,
-				"title":"A Meeting with Izek",
+				"title":"A Meeting With Izek",
 				"description":"",
 				"highlights":[""],
 				"date":[1,19,2022],
@@ -152,7 +152,7 @@
 			},
 			{
 				"id":17,
-				"title":"Clash with the New Regime",
+				"title":"Clash With the New Regime",
 				"description":"",
 				"highlights":[""],
 				"date":[2,15,2022],
@@ -176,7 +176,7 @@
 			},
 			{
 				"id":20,
-				"title":"To Dine with the Devil",
+				"title":"To Dine With the Devil",
 				"description":"",
 				"highlights":[""],
 				"date":[3,14,2022],

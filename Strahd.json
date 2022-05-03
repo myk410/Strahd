@@ -221,7 +221,7 @@
 				"highlights":[""],
 				"date":[4,25,2022],
 				"url":"http://enuestudios.com/DND/Strahd/Strahd_025.mp3"
-			} ,
+			},
 			{
 				"id":26,
 				"title":"The Blight of the Vinyard",
@@ -229,6 +229,14 @@
 				"highlights":[""],
 				"date":[4,29,2022],
 				"url":"http://enuestudios.com/DND/Strahd/Strahd_026.mp3"
+			},
+			{
+				"id":27,
+				"title":"Face Melt by the Light",
+				"description":"",
+				"highlights":[""],
+				"date":[5,2,2022],
+				"url":"http://enuestudios.com/DND/Strahd/Strahd_027.mp3"
 			}
 		]
 	},

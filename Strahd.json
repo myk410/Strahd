@@ -307,7 +307,7 @@
 				"title":"The Mystery of the Russian Glutton",
 				"description":"",
 				"highlights":[""],
-				"date":[7,6,2022],
+				"date":[7,5,2022],
 				"url":"http://enuestudios.com/DND/Strahd/Strahd_036.mp3"
 			},
 			{
@@ -315,8 +315,16 @@
 				"title":"Third Eye Bald",
 				"description":"",
 				"highlights":[""],
-				"date":[7,11,2022],
+				"date":[7,7,2022],
 				"url":"http://enuestudios.com/DND/Strahd/Strahd_037.mp3"
+			},
+			{
+				"id":38,
+				"title":"Judiciary Escalation",
+				"description":"",
+				"highlights":[""],
+				"date":[7,11,2022],
+				"url":"http://enuestudios.com/DND/Strahd/Strahd_038.mp3"
 			}
 		]
 	},

@@ -523,5 +523,19 @@
 				"url":"http://enuestudios.com/DND/The_Toymakers_Gift/TTG_003.mp3"
 			}
 		]
+	},
+	{
+		"id":4,
+		"title":"The Secret of Karnov Mansion",
+		"sessions":[
+			{
+				"id":1,
+				"title":"The Secret of Karnov Mansion",
+				"description":"",
+				"highlights":[""],
+				"date":[10,31,2020],
+				"url":"http://enuestudios.com/DND/The_Secret_of_Karnov_Mansion/The_Secret_of_Karnov_Mansion.mp3"
+			}
+		]
 	}
 ]

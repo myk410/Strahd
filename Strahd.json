@@ -493,5 +493,35 @@
 				"url":"http://enuestudios.com/DND/Avatar/Avatar_011.mp3"
 			}
 		]
+	},
+	{
+		"id":3,
+		"title":"The Toymaker's Gift",
+		"sessions":[
+			{
+				"id":1,
+				"title":"TTG 1",
+				"description":"",
+				"highlights":[""],
+				"date":[7,30,2021],
+				"url":"http://enuestudios.com/DND/The_Toymakers_Gift/TTG_001.mp3"
+			},
+			{
+				"id":2,
+				"title":"TTG 2",
+				"description":"",
+				"highlights":[""],
+				"date":[8,2,2021],
+				"url":"http://enuestudios.com/DND/The_Toymakers_Gift/TTG_002.mp3"
+			},
+			{
+				"id":3,
+				"title":"TTG 3",
+				"description":"",
+				"highlights":[""],
+				"date":[9,4,2021],
+				"url":"http://enuestudios.com/DND/The_Toymakers_Gift/TTG_003.mp3"
+			}
+		]
 	}
 ]

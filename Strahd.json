@@ -676,6 +676,100 @@
 	},
 	{
 		"id":5,
+		"title":"Phandalin",
+		"sessions":[
+			{
+				"id":1,
+				"title":"Phandalin 01",
+				"description":"",
+				"highlights":[""],
+				"date":[6,20,2020],
+				"url":"http://enuestudios.com/DND/Phandalin/Phandalin_001.mp3"
+			},
+			{
+				"id":2,
+				"title":"Phandalin 02",
+				"description":"",
+				"highlights":[""],
+				"date":[6,21,2020],
+				"url":"http://enuestudios.com/DND/Phandalin/Phandalin_002.mp3"
+			},
+			{
+				"id":3,
+				"title":"Phandalin 03",
+				"description":"",
+				"highlights":[""],
+				"date":[6,26,2020],
+				"url":"http://enuestudios.com/DND/Phandalin/Phandalin_003.mp3"
+			},
+			{
+				"id":4,
+				"title":"Phandalin 04",
+				"description":"",
+				"highlights":[""],
+				"date":[7,4,2020],
+				"url":"http://enuestudios.com/DND/Phandalin/Phandalin_004.mp3"
+			},
+			{
+				"id":5,
+				"title":"Phandalin 05",
+				"description":"",
+				"highlights":[""],
+				"date":[7,5,2020],
+				"url":"http://enuestudios.com/DND/Phandalin/Phandalin_005.mp3"
+			},
+			{
+				"id":6,
+				"title":"Phandalin 06",
+				"description":"",
+				"highlights":[""],
+				"date":[7,11,2020],
+				"url":"http://enuestudios.com/DND/Phandalin/Phandalin_006.mp3"
+			},
+			{
+				"id":7,
+				"title":"Phandalin 07",
+				"description":"",
+				"highlights":[""],
+				"date":[7,12,2020],
+				"url":"http://enuestudios.com/DND/Phandalin/Phandalin_007.mp3"
+			},
+			{
+				"id":8,
+				"title":"Phandalin 08",
+				"description":"",
+				"highlights":[""],
+				"date":[7,16,2020],
+				"url":"http://enuestudios.com/DND/Phandalin/Phandalin_008.mp3"
+			},
+			{
+				"id":9,
+				"title":"Phandalin 09",
+				"description":"",
+				"highlights":[""],
+				"date":[7,23,2020],
+				"url":"http://enuestudios.com/DND/Phandalin/Phandalin_009.mp3"
+			},
+			{
+				"id":10,
+				"title":"Phandalin 10",
+				"description":"",
+				"highlights":[""],
+				"date":[7,30,2020],
+				"url":"http://enuestudios.com/DND/Phandalin/Phandalin_010.mp3"
+			},
+			{
+				"id":11,
+				"title":"Phandalin 11",
+				"description":"",
+				"highlights":[""],
+				"date":[8,14,2020],
+				"url":"http://enuestudios.com/DND/Phandalin/Phandalin_011.mp3"
+			}
+		]
+	},
+	{
+		"id":6,
 		"title":"Jakarta",
 		"sessions":[
 			{

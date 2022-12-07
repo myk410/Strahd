@@ -400,11 +400,19 @@
 			},
 			{
 				"id":48,
-				"title":"A Furry Dilemma",
+				"title":"A Twist of Tails",
 				"description":"",
 				"highlights":[],
 				"date":[11,21,2022],
 				"url":"http://enuestudios.com/DND/Strahd/Strahd_048.mp3"
+			},
+			{
+				"id":49,
+				"title":"A Very Furry Fury",
+				"description":"",
+				"highlights":[],
+				"date":[11,28,2022],
+				"url":"http://enuestudios.com/DND/Strahd/Strahd_049.mp3"
 			}
 		]
 	},

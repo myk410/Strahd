@@ -504,11 +504,19 @@
 			},
 			{
 				"id":61,
-				"title":"Flaming Skulls",
+				"title":"The Gang Goes Left",
 				"description":"",
 				"highlights":[],
 				"date":[4,4,2023],
 				"url":"http://enuestudios.com/DND/Strahd/Strahd_061.mp3"
+			},
+			{
+				"id":62,
+				"title":"The Gang Goes Right",
+				"description":"",
+				"highlights":[],
+				"date":[4,13,2023],
+				"url":"http://enuestudios.com/DND/Strahd/Strahd_062.mp3"
 			}
 		]
 	},

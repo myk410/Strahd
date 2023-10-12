@@ -624,7 +624,7 @@
 			},
 			{
 				"id":76,
-				"title":"Somewhere Under the Rainbow",
+				"title":"\"Somewhere Under the Rainbow",
 				"description":"",
 				"highlights":[],
 				"date":[9,6,2023],
@@ -645,6 +645,14 @@
 				"highlights":[],
 				"date":[9,27,2023],
 				"url":"http://enuestudios.com/DND/Strahd/Strahd_078.mp3"
+			},
+			{
+				"id":79,
+				"title":"And a Fane Came Back\"",
+				"description":"",
+				"highlights":[],
+				"date":[10,4,2023],
+				"url":"http://enuestudios.com/DND/Strahd/Strahd_079.mp3"
 			}
 		]
 	},

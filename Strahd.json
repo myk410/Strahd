@@ -672,11 +672,19 @@
 			},
 			{
 				"id":82,
-				"title":"To be exact, you guys are deep.",
+				"title":"The Deep Bellow",
 				"description":"",
 				"highlights":[],
 				"date":[11,1,2023],
 				"url":"http://enuestudios.com/DND/Strahd/Strahd_082.mp3"
+			},
+			{
+				"id":83,
+				"title":"Spectral Sympathy",
+				"description":"",
+				"highlights":[],
+				"date":[11,8,2023],
+				"url":"http://enuestudios.com/DND/Strahd/Strahd_083.mp3"
 			}
 		]
 	},

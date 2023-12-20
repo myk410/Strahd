@@ -704,11 +704,19 @@
 			},
 			{
 				"id":86,
-				"title":"Battle of Attrition",
+				"title":"The Battle of Attrition",
 				"description":"",
 				"highlights":[],
 				"date":[12,6,2023],
 				"url":"http://enuestudios.com/DND/Strahd/Strahd_086.mp3"
+			},
+			{
+				"id":87,
+				"title":"The Fall of the House of Venus",
+				"description":"",
+				"highlights":[],
+				"date":[12,13,2023],
+				"url":"http://enuestudios.com/DND/Strahd/Strahd_087.mp3"
 			}
 		]
 	},

@@ -920,11 +920,27 @@
 			},
 			{
 				"id":113,
-				"title":"Wedding Prep",
+				"title":"The Wedding",
 				"description":"",
 				"highlights":[],
 				"date":[12,4,2024],
 				"url":"http://enuestudios.com/DND/Strahd/Strahd_113.mp3"
+			},
+			{
+				"id":114,
+				"title":"Strahdagey",
+				"description":"",
+				"highlights":[],
+				"date":[12,11,2024],
+				"url":"http://enuestudios.com/DND/Strahd/Strahd_114.mp3"
+			},
+			{
+				"id":115,
+				"title":"Cakes and Doors",
+				"description":"",
+				"highlights":[],
+				"date":[12,18,2024],
+				"url":"http://enuestudios.com/DND/Strahd/Strahd_115.mp3"
 			}
 		]
 	},

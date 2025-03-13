@@ -1,23 +1,22 @@
 [
 	{
+		"id":1,
+		"title":"Harry Potter and the Next Generation",
+		"sessions":[
+			{
+				"id":1,
+				"title":"Session 0",
+				"description":"",
+				"highlights":[""],
+				"date":[3,24,2025],
+				"url":"http://enuestudios.com/DND/Potter/Potter_01.mp3"
+			}
+		]
+	},
+	{
 		"id":2,
 		"title":"The Curse of Strahd",
 		"sessions":[
-					
-			{
-				"id":1,
-				"title":"Harry Potter",
-				"sessions":[
-					{
-						"id":1,
-						"title":"Session 0",
-						"description":"",
-						"highlights":[""],
-						"date":[3,24,2025],
-						"url":"http://enuestudios.com/DND/Potter/Potter_01.mp3"
-					}
-				]
-			},
 			{
 				"id":1,
 				"title":"Welcome to Daggerford",

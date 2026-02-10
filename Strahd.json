@@ -1,1623 +1,2650 @@
 [
-	{
-		"id":1,
-		"title":"Harry Potter and the Next Generation",
-		"sessions":[
-			{
-				"id":1,
-				"title":"Letters from Hogwarts",
-				"description":"",
-				"highlights":[""],
-				"date":[4,2,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_001.mp3"
-			},
-			{
-				"id":2,
-				"title":"Through the Brick Wall",
-				"description":"",
-				"highlights":[""],
-				"date":[4,9,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_002.mp3"
-			},
-			{
-				"id":3,
-				"title":"Buying Supplies",
-				"description":"",
-				"highlights":[""],
-				"date":[4,16,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_003.mp3"
-			},
-			{
-				"id":4,
-				"title":"Owls & Potions",
-				"description":"",
-				"highlights":[""],
-				"date":[4,23,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_004.mp3"
-			},
-			{
-				"id":5,
-				"title":"House Keeping",
-				"description":"",
-				"highlights":[""],
-				"date":[4,30,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_005.mp3"
-			},
-			{
-				"id":6,
-				"title":"Never Eat a Pie",
-				"description":"",
-				"highlights":[""],
-				"date":[5,7,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_006.mp3"
-			},
-			{
-				"id":7,
-				"title":"The Hogwarts Express",
-				"description":"",
-				"highlights":[""],
-				"date":[5,14,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_007.mp3"
-			},
-			{
-				"id":8,
-				"title":"Duel on The Hogwarts Express",
-				"description":"",
-				"highlights":[""],
-				"date":[5,28,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_008.mp3"
-			},
-			{
-				"id":9,
-				"title":"The Sorting",
-				"description":"",
-				"highlights":[""],
-				"date":[6,11,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_009.mp3"
-			},
-			{
-				"id":10,
-				"title":"Night Out",
-				"description":"",
-				"highlights":[""],
-				"date":[6,18,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_010.mp3"
-			},
-			{
-				"id":11,
-				"title":"Unseen Revealed",
-				"description":"",
-				"highlights":[""],
-				"date":[7,2,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_011.mp3"
-			},
-			{
-				"id":12,
-				"title":"Trouble in the Greenhouse",
-				"description":"",
-				"highlights":[""],
-				"date":[7,9,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_012.mp3"
-			},
-			{
-				"id":13,
-				"title":"A Key Loss",
-				"description":"",
-				"highlights":[""],
-				"date":[7,16,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_013.mp3"
-			},
-			{
-				"id":14,
-				"title":"Medics and McGonagall",
-				"description":"",
-				"highlights":[""],
-				"date":[7,30,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_014.mp3"
-			},
-			{
-				"id":15,
-				"title":"Locked Down",
-				"description":"",
-				"highlights":[""],
-				"date":[8,6,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_015.mp3"
-			},
-			{
-				"id":16,
-				"title":"Breakfast and Clubs",
-				"description":"",
-				"highlights":[""],
-				"date":[8,13,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_016.mp3"
-			},
-			{
-				"id":17,
-				"title":"Lumos!",
-				"description":"",
-				"highlights":[""],
-				"date":[8,20,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_017.mp3"
-			},
-			{
-				"id":18,
-				"title":"Room of Illusions",
-				"description":"",
-				"highlights":[""],
-				"date":[8,27,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_018.mp3"
-			},
-			{
-				"id":19,
-				"title":"Muggle Studies and the Serpent’s Surprise",
-				"description":"",
-				"highlights":[""],
-				"date":[9,3,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_019.mp3"
-			},
-			{
-				"id":20,
-				"title":"The Knights of Pendragon",
-				"description":"",
-				"highlights":[""],
-				"date":[9,10,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_020.mp3"
-			},
-			{
-				"id":21,
-				"title":"The Last to Sign, First to Read",
-				"description":"",
-				"highlights":[""],
-				"date":[9,17,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_021.mp3"
-			},
-			{
-				"id":22,
-				"title":"Reflections of Death",
-				"description":"",
-				"highlights":[""],
-				"date":[9,24,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_022.mp3"
-			},
-			{
-				"id":23,
-				"title":"The End of Flying Class",
-				"description":"",
-				"highlights":[""],
-				"date":[10,1,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_023.mp3"
-			},
-			{
-				"id":24,
-				"title":"Potions Class",
-				"description":"",
-				"highlights":[""],
-				"date":[10,15,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_024.mp3"
-			},
-			{
-				"id":25,
-				"title":"To the Press!",
-				"description":"",
-				"highlights":[""],
-				"date":[10,22,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_025.mp3"
-			},
-			{
-				"id":26,
-				"title":"Clubbin'",
-				"description":"",
-				"highlights":[""],
-				"date":[10,29,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_026.mp3"
-			},
-			{
-				"id":27,
-				"title":"Dueling and Booking It",
-				"description":"",
-				"highlights":[""],
-				"date":[11,12,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_027.mp3"
-			},
-			{
-				"id":28,
-				"title":"Stars and Slugs",
-				"description":"",
-				"highlights":[""],
-				"date":[12,17,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_028.mp3"
-			},
-			{
-				"id":29,
-				"title":"The Chamber of Secrets",
-				"description":"",
-				"highlights":[""],
-				"date":[12,28,2025],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_029.mp3"
-			},
-			{
-				"id":30,
-				"title":"The Tale of Morgana Pendragaon",
-				"description":"",
-				"highlights":[""],
-				"date":[1,11,2026],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_030.mp3"
-			},
-			{
-				"id":31,
-				"title":"Pounce with a Panther",
-				"description":"",
-				"highlights":[""],
-				"date":[2,8,2026],
-				"url":"http://enuestudios.com/DND/Hogwarts/Potter_031.mp3"
-			}
-		]
-	},
-	{
-		"id":2,
-		"title":"The Curse of Strahd",
-		"sessions":[
-			{
-				"id":1,
-				"title":"Welcome to Daggerford",
-				"description":"",
-				"highlights":["01:37:07 - story about meeting Strahd"],
-				"date":[9,18,2021],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_001.mp3"
-			},
-			{
-				"id":2,
-				"title":"The House of Deathly Illusion",
-				"description":"",
-				"highlights":[""],
-				"date":[9,24,2021],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_002.mp3"
-			},
-			{
-				"id":3,
-				"title":"Baby Battle in the Basement",
-				"description":"",
-				"highlights":[""],
-				"date":[9,27,2021],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_003.mp3"
-			},
-			{
-				"id":4,
-				"title":"Interview With a Vampire",
-				"description":"",
-				"highlights":[""],
-				"date":[10,8,2021],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_004.mp3"
-			},
-			{
-				"id":5,
-				"title":"The Woman in Red",
-				"description":"",
-				"highlights":[""],
-				"date":[10,25,2021],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_005.mp3"
-			},
-			{
-				"id":6,
-				"title":"Mill of the Night Hags",
-				"description":"",
-				"highlights":[""],
-				"date":[10,30,2021],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_006.mp3"
-			},
-			{
-				"id":7,
-				"title":"Through the Gates of Vallaki",
-				"description":"",
-				"highlights":["We arrive at the Blue Water Inn to stay the night."],
-				"date":[11,5,2021],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_007.mp3"
-			},
-			{
-				"id":8,
-				"title":"Shopping Spree",
-				"description":"",
-				"highlights":[""],
-				"date":[11,15,2021],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_008.mp3"
-			},
-			{
-				"id":9,
-				"title":"A Bolt of Kindness",
-				"description":"",
-				"highlights":[""],
-				"date":[11,29,2021],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_009.mp3"
-			},
-			{
-				"id":10,
-				"title":"Jailbreak",
-				"description":"",
-				"highlights":[""],
-				"date":[12,10,2021],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_010.mp3"
-			},
-			{
-				"id":11,
-				"title":"Viva la Résistance",
-				"description":"",
-				"highlights":["Ernst helps us escape Izek and his guards.","Gaetano posses as a bum to throw off guards.","We are brought to Lady Watcher and are introduced to the resistance.",
-					     "Lady watcher commissions us to capture the Burgomaster, Baron Vargas Vallakovich, and kill Izek for the murder of her husband."],
-				"date":[12,13,2021],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_011.mp3"
-			},
-			{
-				"id":12,
-				"title":"The Burgermeister's Abode",
-				"description":"",
-				"highlights":["Megren is the first to enter the burgermeister's house.",
-					      "Zilla enters a diningroom after barely evading a guard.",
-					      "Gaetano enters a second story bedroom window and finds a short sword.",
-					      "Kenrue enters the backroom with Megren",
-					      "Megren and Sarah check the first floor hallway and notice there are bundles of sticks all over the place.",
-					      "36:29",
-					      "Kenrue sneaks up stairs, snufs out a flame so he is hidden, and notices a guard at the other end of the hallway.",
-					      "Megren casts infestation, which makes the guard think he is covered in fleas.",
-					      "Gaetano enters the hallway and decides to pick open a locked door. Behind the door is a cell that holds all of our things!",
-					      "Emerging from the bathroom, the guard catches Zilla, Megren, and Kenrue in the hallway.",
-					      "Zilla puts the guard to sleep and then is immediately granted the power of teleportation.",
-					      "She teleports into the locked room that she is standing next to, which turns out to be a study.",
-					      "Zilla grabs a book 'Poetry Anthology', unlocks the door, and exits into the hallway.",
-					      "Gaetano notices a guard is coming up the main stairway in the front.",
-					      "Zilla teleports into another room with a wedding dress. She hears snoring coming from the behind a door.",
-					      "Gaetano dresses in the sleeping guard's outfit and posses as him in the darkness to fool the other guard.",
-					      "Zilla sneaks into the room where she heard snoring and finds the burgermeister and his wife asleep in their bed. She also notices a door in the ceiling.",
-					      "Zilla climbs through the door into a small room in the attic. She opens a door to reveal the room that Gaetano, Megren, and Kenrue were imprisoned in 2 sessions ago.",
-					      "The guard becomes suspicious of Gaetano's disguise, so Kenrue steps out right in the face of the guard, and commands him to lock himself in the cell at the end of the hall."],
-				"date":[12,18,2021],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_012.mp3"
-			},
-			{
-				"id":13,
-				"title":"A Meeting With Izek",
-				"description":"",
-				"highlights":[""],
-				"date":[1,19,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_013.mp3"
-			},
-			{
-				"id":14,
-				"title":"The Sacred Bones Relay",
-				"description":"",
-				"highlights":[""],
-				"date":[1,24,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_014.mp3"
-			},
-			{
-				"id":15,
-				"title":"The Festival of the Blazing Sun",
-				"description":"",
-				"highlights":[""],
-				"date":[1,31,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_015.mp3"
-			},
-			{
-				"id":16,
-				"title":"Let It Burn",
-				"description":"",
-				"highlights":["One third of the town burned. Unfortunately only some of the records could be recovered from this session."],
-				"date":[2,7,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_016.mp3"
-			},
-			{
-				"id":17,
-				"title":"Clash With the New Regime",
-				"description":"",
-				"highlights":[""],
-				"date":[2,15,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_017.mp3"
-			},
-			{
-				"id":18,
-				"title":"A Horse and a Goat",
-				"description":"",
-				"highlights":[""],
-				"date":[2,22,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_018.mp3"
-			},
-			{
-				"id":19,
-				"title":"A Death at Lake Zarovich",
-				"description":"",
-				"highlights":[""],
-				"date":[3,7,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_019.mp3"
-			},
-			{
-				"id":20,
-				"title":"To Dine With the Devil",
-				"description":"",
-				"highlights":[""],
-				"date":[3,14,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_020.mp3"
-			},
-			{
-				"id":21,
-				"title":"Fuck, Marry, Kill",
-				"description":"",
-				"highlights":[""],
-				"date":[3,21,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_021.mp3"
-			},
-			{
-				"id":22,
-				"title":"Spiders and Skeletons",
-				"description":"",
-				"highlights":[""],
-				"date":[4,4,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_022.mp3"
-			},
-			{
-				"id":23,
-				"title":"A Night-Time Stroll",
-				"description":"",
-				"highlights":[""],
-				"date":[4,6,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_023.mp3"
-			},
-			{
-				"id":24,
-				"title":"Dances With Wolves",
-				"description":"",
-				"highlights":[""],
-				"date":[4,11,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_024.mp3"
-			},
-			{
-				"id":25,
-				"title":"A Night in Terror Tower",
-				"description":"",
-				"highlights":[""],
-				"date":[4,25,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_025.mp3"
-			},
-			{
-				"id":26,
-				"title":"The Blight of the Vinyard",
-				"description":"",
-				"highlights":[""],
-				"date":[4,29,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_026.mp3"
-			},
-			{
-				"id":27,
-				"title":"Inside the Winery",
-				"description":"",
-				"highlights":[""],
-				"date":[5,2,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_027.mp3"
-			},
-			{
-				"id":28,
-				"title":"Master of Plants",
-				"description":"",
-				"highlights":[""],
-				"date":[5,9,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_028.mp3"
-			},
-			{
-				"id":29,
-				"title":"The E! True Barovian Story: Strahd Von Zarovich",
-				"description":"",
-				"highlights":[""],
-				"date":[5,12,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_029.mp3"
-			},
-			{
-				"id":30,
-				"title":"Unstable Ground",
-				"description":"",
-				"highlights":[""],
-				"date":[5,16,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_030.mp3"
-			},
-			{
-				"id":31,
-				"title":"The Straw Man Defense",
-				"description":"",
-				"highlights":[""],
-				"date":[5,18,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_031.mp3"
-			},
-			{
-				"id":32,
-				"title":"Sticks and a Stone",
-				"description":"",
-				"highlights":[""],
-				"date":[5,23,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_032.mp3"
-			},
-			{
-				"id":33,
-				"title":"Stepping Into Death",
-				"description":"",
-				"highlights":[""],
-				"date":[5,30,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_033.mp3"
-			},
-			{
-				"id":34,
-				"title":"Mama Drama",
-				"description":"",
-				"highlights":[""],
-				"date":[6,13,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_034.mp3"
-			},
-			{
-				"id":35,
-				"title":"A Line in the Sand",
-				"description":"",
-				"highlights":[""],
-				"date":[6,20,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_035.mp3"
-			},
-			{
-				"id":36,
-				"title":"The Mystery of the Russian Glutton",
-				"description":"",
-				"highlights":[""],
-				"date":[7,5,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_036.mp3"
-			},
-			{
-				"id":37,
-				"title":"Third Eye Bald",
-				"description":"",
-				"highlights":[""],
-				"date":[7,7,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_037.mp3"
-			},
-			{
-				"id":38,
-				"title":"Judicial Escalation",
-				"description":"",
-				"highlights":[""],
-				"date":[7,11,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_038.mp3"
-			},
-			{
-				"id":39,
-				"title":"A Night Hag Haunting",
-				"description":"",
-				"highlights":["Ending recap at 1:03:10"],
-				"date":[7,21,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_039.mp3"
-			},
-			{
-				"id":40,
-				"title":"The Heart of a Child",
-				"description":"",
-				"highlights":[],
-				"date":[8,5,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_040.mp3"
-			},
-			{
-				"id":41,
-				"title":"Witch Hunt",
-				"description":"",
-				"highlights":[],
-				"date":[8,16,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_041.mp3"
-			},
-			{
-				"id":42,
-				"title":"Bad Decisions",
-				"description":"",
-				"highlights":[],
-				"date":[10,17,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_042.mp3"
-			},
-			{
-				"id":43,
-				"title":"Abandoning the Abbot",
-				"description":"",
-				"highlights":[],
-				"date":[10,24,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_043.mp3"
-			},
-			{
-				"id":44,
-				"title":"Wolf Hunt",
-				"description":"",
-				"highlights":[],
-				"date":[10,28,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_044.mp3"
-			},
-			{
-				"id":45,
-				"title":"Separated",
-				"description":"",
-				"highlights":[],
-				"date":[11,1,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_045.mp3"
-			},
-			{
-				"id":46,
-				"title":"Into the Wereden",
-				"description":"",
-				"highlights":[],
-				"date":[11,7,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_046.mp3"
-			},
-			{
-				"id":47,
-				"title":"Kiril's Trap",
-				"description":"",
-				"highlights":[],
-				"date":[11,14,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_047.mp3"
-			},
-			{
-				"id":48,
-				"title":"A Twist of Tails",
-				"description":"",
-				"highlights":[],
-				"date":[11,21,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_048.mp3"
-			},
-			{
-				"id":49,
-				"title":"A Fury Furries",
-				"description":"",
-				"highlights":[],
-				"date":[11,28,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_049.mp3"
-			},
-			{
-				"id":50,
-				"title":"Into the Mountain",
-				"description":"",
-				"highlights":[],
-				"date":[12,14,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_050.mp3"
-			},
-			{
-				"id":51,
-				"title":"Between a Rock and a Hard Place",
-				"description":"",
-				"highlights":[],
-				"date":[12,21,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_051.mp3"
-			},
-			{
-				"id":52,
-				"title":"Soul Sucking Jerks",
-				"description":"",
-				"highlights":[],
-				"date":[12,31,2022],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_052.mp3"
-			},
-			{
-				"id":53,
-				"title":"Gaetano Bresci's Travel Guide to Romania",
-				"description":"",
-				"highlights":[],
-				"date":[1,4,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_053.mp3"
-			},
-			{
-				"id":54,
-				"title":"Yurts and Stingers",
-				"description":"",
-				"highlights":[],
-				"date":[1,18,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_054.mp3"
-			},
-			{
-				"id":55,
-				"title":"The Sound of War: A Declaration Echoes",
-				"description":"",
-				"highlights":[],
-				"date":[2,6,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_055.mp3"
-			},
-			{
-				"id":56,
-				"title":"Undead Experimentation",
-				"description":"",
-				"highlights":[],
-				"date":[2,20,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_056.mp3"
-			},
-			{
-				"id":57,
-				"title":"An Avalanche of Thrills",
-				"description":"",
-				"highlights":[],
-				"date":[3,6,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_057.mp3"
-			},
-			{
-				"id":58,
-				"title":"The Cave of Living Death",
-				"description":"",
-				"highlights":[],
-				"date":[3,15,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_058.mp3"
-			},
-			{
-				"id":59,
-				"title":"Bird of Pray",
-				"description":"",
-				"highlights":[],
-				"date":[3,20,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_059.mp3"
-			},
-			{
-				"id":60,
-				"title":"Possession is 9/10s of the Gore",
-				"description":"",
-				"highlights":[],
-				"date":[3,29,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_060.mp3"
-			},
-			{
-				"id":61,
-				"title":"The Gang Goes Left",
-				"description":"",
-				"highlights":[],
-				"date":[4,4,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_061.mp3"
-			},
-			{
-				"id":62,
-				"title":"The Gang Goes Right",
-				"description":"",
-				"highlights":[],
-				"date":[4,13,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_062.mp3"
-			},
-			{
-				"id":63,
-				"title":"The Mage and the Wolf",
-				"description":"",
-				"highlights":[],
-				"date":[4,19,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_063.mp3"
-			},
-			{
-				"id":64,
-				"title":"The Library Runaround",
-				"description":"",
-				"highlights":[],
-				"date":[4,26,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_064.mp3"
-			},
-			{
-				"id":65,
-				"title":"WHERE THE F%$# IS THE LIBRARY??",
-				"description":"",
-				"highlights":[],
-				"date":[5,11,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_065.mp3"
-			},
-			{
-				"id":66,
-				"title":"House of the Dying Gods",
-				"description":"",
-				"highlights":[],
-				"date":[5,17,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_066.mp3"
-			},
-			{
-				"id":67,
-				"title":"Infomus Dumpus",
-				"description":"",
-				"highlights":[],
-				"date":[5,31,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_067.mp3"
-			},
-			{
-				"id":68,
-				"title":"The Library Wrap-Up",
-				"description":"",
-				"highlights":[],
-				"date":[6,7,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_068.mp3"
-			},
-			{
-				"id":69,
-				"title":"Tears On My Pillow",
-				"description":"",
-				"highlights":[],
-				"date":[6,14,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_069.mp3"
-			},
-			{
-				"id":70,
-				"title":"The Death of Tatyana",
-				"description":"",
-				"highlights":["1:08:14 - The Death of tatyana"],
-				"date":[7,12,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_070.mp3"
-			},
-			{
-				"id":71,
-				"title":"A Stake of Kindness",
-				"description":"",
-				"highlights":[],
-				"date":[7,19,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_071.mp3"
-			},
-			{
-				"id":72,
-				"title":"A Fleet of Fools",
-				"description":"",
-				"highlights":[],
-				"date":[7,26,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_072.mp3"
-			},
-			{
-				"id":73,
-				"title":"Which Swamp? WITCH SWAMP!",
-				"description":"",
-				"highlights":[],
-				"date":[8,2,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_073.mp3"
-			},
-			{
-				"id":74,
-				"title":"The Terrifying Glare",
-				"description":"",
-				"highlights":[],
-				"date":[8,9,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_074.mp3"
-			},
-			{
-				"id":75,
-				"title":"Flower of the Black Rose",
-				"description":"",
-				"highlights":[],
-				"date":[8,16,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_075.mp3"
-			},
-			{
-				"id":76,
-				"title":"\"Somewhere Under the Rainbow",
-				"description":"",
-				"highlights":[],
-				"date":[9,6,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_076.mp3"
-			},
-			{
-				"id":77,
-				"title":"Skies Are Black",
-				"description":"",
-				"highlights":[],
-				"date":[9,13,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_077.mp3"
-			},
-			{
-				"id":78,
-				"title":"There's a Heart That I Tore Out Once",
-				"description":"",
-				"highlights":[],
-				"date":[9,27,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_078.mp3"
-			},
-			{
-				"id":79,
-				"title":"And a Fane Came Back\"",
-				"description":"",
-				"highlights":[],
-				"date":[10,4,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_079.mp3"
-			},
-			{
-				"id":80,
-				"title":"Dawn and Dusk of the Dead",
-				"description":"",
-				"highlights":[],
-				"date":[10,18,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_080.mp3"
-			},
-			{
-				"id":81,
-				"title":"On the Good Ship \"Rivefied\"",
-				"description":"",
-				"highlights":[],
-				"date":[10,25,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_081.mp3"
-			},
-			{
-				"id":82,
-				"title":"The Deep Bellow",
-				"description":"",
-				"highlights":[],
-				"date":[11,1,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_082.mp3"
-			},
-			{
-				"id":83,
-				"title":"Spectral Sympathy",
-				"description":"",
-				"highlights":[],
-				"date":[11,8,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_083.mp3"
-			},
-			{
-				"id":84,
-				"title":"Midnight Attack",
-				"description":"",
-				"highlights":[],
-				"date":[11,15,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_084.mp3"
-			},
-			{
-				"id":85,
-				"title":"So Long, Suckas",
-				"description":"",
-				"highlights":[],
-				"date":[11,29,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_085.mp3"
-			},
-			{
-				"id":86,
-				"title":"The Battle of Attrition",
-				"description":"",
-				"highlights":[],
-				"date":[12,6,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_086.mp3"
-			},
-			{
-				"id":87,
-				"title":"The Fall of the House of Venus",
-				"description":"",
-				"highlights":[],
-				"date":[12,13,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_087.mp3"
-			},
-			{
-				"id":88,
-				"title":"Lord Argynvost: The Dragon King",
-				"description":"",
-				"highlights":[],
-				"date":[12,20,2023],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_088.mp3"
-			},
-			{
-				"id":89,
-				"title":"Faries and Shopping",
-				"description":"",
-				"highlights":[],
-				"date":[1,17,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_089.mp3"
-			},
-			{
-				"id":90,
-				"title":"Home James, and Don't Spare the Horses",
-				"description":"",
-				"highlights":[],
-				"date":[1,24,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_090.mp3"
-			},
-			{
-				"id":91,
-				"title":"A Wedding Rescheduled",
-				"description":"",
-				"highlights":[],
-				"date":[3,6,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_091.mp3"
-			},
-			{
-				"id":92,
-				"title":"The Ungrateful Knights of the Silver Dragon",
-				"description":"",
-				"highlights":[],
-				"date":[3,13,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_092.mp3"
-			},
-			{
-				"id":93,
-				"title":"Sphere of Angels",
-				"description":"",
-				"highlights":[],
-				"date":[3,20,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_093.mp3"
-			},
-			{
-				"id":94,
-				"title":"Ring of Fire",
-				"description":"",
-				"highlights":[],
-				"date":[3,27,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_094.mp3"
-			},
-			{
-				"id":95,
-				"title":"Bear Paw Immolation",
-				"description":"",
-				"highlights":[],
-				"date":[4,10,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_095.mp3"
-			},
-			{
-				"id":96,
-				"title":"A Grave Defeat",
-				"description":"",
-				"highlights":[],
-				"date":[4,17,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_096.mp3"
-			},
-			{
-				"id":97,
-				"title":"Never do a Side Quest",
-				"description":"",
-				"highlights":[],
-				"date":[5,1,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_097.mp3"
-			},
-			{
-				"id":98,
-				"title":"The Merchant's Wife",
-				"description":"",
-				"highlights":[],
-				"date":[5,8,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_098.mp3"
-			},
-			{
-				"id":99,
-				"title":"The Hive of Horror",
-				"description":"",
-				"highlights":[],
-				"date":[5,29,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_099.mp3"
-			},
-			{
-				"id":100,
-				"title":"The Centenial Shutdown",
-				"description":"",
-				"highlights":[],
-				"date":[6,12,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_100.mp3"
-			},
-			{
-				"id":101,
-				"title":"The Doppelganger Duel - Part 1",
-				"description":"",
-				"highlights":[],
-				"date":[6,19,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_101.mp3"
-			},
-			{
-				"id":102,
-				"title":"The Doppelganger Duel - Part 2",
-				"description":"",
-				"highlights":[],
-				"date":[7,3,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_102.mp3"
-			},
-			{
-				"id":103,
-				"title":"The Doppelganger Duel - Part 3",
-				"description":"",
-				"highlights":[],
-				"date":[7,17,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_103.mp3"
-			},
-			{
-				"id":104,
-				"title":"The Devil's in the Details",
-				"description":"",
-				"highlights":[],
-				"date":[7,31,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_104.mp3"
-			},
-			{
-				"id":105,
-				"title":"Bartering with Fate",
-				"description":"",
-				"highlights":[],
-				"date":[8,7,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_105.mp3"
-			},
-			{
-				"id":106,
-				"title":"Primed and Ready to Meet",
-				"description":"",
-				"highlights":[],
-				"date":[9,4,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_106.mp3"
-			},
-			{
-				"id":107,
-				"title":"CIA",
-				"description":"",
-				"highlights":[],
-				"date":[9,11,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_107.mp3"
-			},
-			{
-				"id":108,
-				"title":"The Battle of Vallaki",
-				"description":"",
-				"highlights":[],
-				"date":[9,18,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_108.mp3"
-			},
-			{
-				"id":109,
-				"title":"Boogers and Blood",
-				"description":"",
-				"highlights":[],
-				"date":[10,9,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_109.mp3"
-			},
-			{
-				"id":110,
-				"title":"Make Vallaki Burn Again",
-				"description":"",
-				"highlights":[],
-				"date":[10,23,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_110.mp3"
-			},
-			{
-				"id":111,
-				"title":"Caught in a Bind",
-				"description":"",
-				"highlights":[],
-				"date":[10,30,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_111.mp3"
-			},
-			{
-				"id":112,
-				"title":"Wedding Prep",
-				"description":"",
-				"highlights":[],
-				"date":[11,6,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_112.mp3"
-			},
-			{
-				"id":113,
-				"title":"The Wedding",
-				"description":"",
-				"highlights":[],
-				"date":[12,4,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_113.mp3"
-			},
-			{
-				"id":114,
-				"title":"Strahdagey",
-				"description":"",
-				"highlights":[],
-				"date":[12,11,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_114.mp3"
-			},
-			{
-				"id":115,
-				"title":"Cakes and Doors",
-				"description":"",
-				"highlights":[],
-				"date":[12,18,2024],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_115.mp3"
-			},
-			{
-				"id":116,
-				"title":"Out the Window Again",
-				"description":"",
-				"highlights":[],
-				"date":[1,15,2025],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_116.mp3"
-			},
-			{
-				"id":117,
-				"title":"Ding dong the king is... dead?",
-				"description":"",
-				"highlights":[],
-				"date":[1,22,2025],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_117.mp3"
-			},
-			{
-				"id":118,
-				"title":"Lights Out",
-				"description":"",
-				"highlights":[],
-				"date":[2,19,2025],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_118.mp3"
-			},
-			{
-				"id":119,
-				"title":"De-Mistified",
-				"description":"",
-				"highlights":[],
-				"date":[3,13,2025],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_119.mp3"
-			},
-			{
-				"id":120,
-				"title":"The Closing",
-				"description":"",
-				"highlights":[],
-				"date":[3,13,2025],
-				"url":"http://enuestudios.com/DND/Strahd/Strahd_120.mp3"
-			}
-		]
-	},
-	{
-		"id":3,
-		"title":"Avatar",
-		"sessions":[
-			{
-				"id":1,
-				"title":"Avatar 01",
-				"description":"",
-				"highlights":[""],
-				"date":[7,25,2020],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_001.mp3"
-			},
-			{
-				"id":2,
-				"title":"Avatar 02",
-				"description":"",
-				"highlights":[""],
-				"date":[7,26,2020],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_002.mp3"
-			},
-			{
-				"id":3,
-				"title":"Avatar 03",
-				"description":"",
-				"highlights":[""],
-				"date":[8,1,2020],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_003.mp3"
-			},
-			{
-				"id":4,
-				"title":"Avatar 04",
-				"description":"",
-				"highlights":[""],
-				"date":[8,9,2020],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_004.mp3"
-			},
-			{
-				"id":5,
-				"title":"Avatar 05",
-				"description":"",
-				"highlights":[""],
-				"date":[8,16,2020],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_005.mp3"
-			},
-			{
-				"id":6,
-				"title":"Avatar 06",
-				"description":"",
-				"highlights":[""],
-				"date":[8,22,2020],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_006.mp3"
-			},
-			{
-				"id":7,
-				"title":"Avatar 07",
-				"description":"",
-				"highlights":[""],
-				"date":[9,1,2020],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_007.mp3"
-			},
-			{
-				"id":8,
-				"title":"Avatar 08",
-				"description":"",
-				"highlights":[""],
-				"date":[9,8,2020],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_008.mp3"
-			},
-			{
-				"id":9,
-				"title":"Avatar 09",
-				"description":"",
-				"highlights":[""],
-				"date":[9,12,2020],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_009.mp3"
-			},
-			{
-				"id":10,
-				"title":"How Not to Free a Town",
-				"description":"",
-				"highlights":["The gang attempts to team up with children to rid the town of fire nation control","Things do not go as planned"],
-				"date":[9,17,2020],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_010.mp3"
-			},
-			{
-				"id":11,
-				"title":"The Great Escape",
-				"description":"",
-				"highlights":["After facing certain death the gang fatefully escapes the Fire Nation"],
-				"date":[9,19,2020],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_011.mp3"
-			},
-			{
-				"id":12,
-				"title":"Avatar 12",
-				"description":"",
-				"highlights":[""],
-				"date":[9,23,2020],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_012.mp3"
-			},
-			{
-				"id":13,
-				"title":"Avatar 13",
-				"description":"",
-				"highlights":[""],
-				"date":[9,26,2020],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_013.mp3"
-			},
-			{
-				"id":14,
-				"title":"Avatar 14",
-				"description":"",
-				"highlights":[""],
-				"date":[9,30,2020],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_014.mp3"
-			},
-			{
-				"id":15,
-				"title":"Avatar 15",
-				"description":"",
-				"highlights":[""],
-				"date":[10,8,2020],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_015.mp3"
-			},
-			{
-				"id":16,
-				"title":"Avatar 16",
-				"description":"",
-				"highlights":[""],
-				"date":[10,11,2020],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_016.mp3"
-			},
-			{
-				"id":17,
-				"title":"Avatar 17",
-				"description":"",
-				"highlights":[""],
-				"date":[10,17,2020],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_017.mp3"
-			},
-			{
-				"id":18,
-				"title":"Avatar 18",
-				"description":"",
-				"highlights":[""],
-				"date":[10,22,2020],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_018.mp3"
-			},
-			{
-				"id":19,
-				"title":"Avatar 19",
-				"description":"",
-				"highlights":[""],
-				"date":[10,25,2020],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_019.mp3"
-			},
-			{
-				"id":20,
-				"title":"Avatar 20",
-				"description":"",
-				"highlights":[""],
-				"date":[11,14,2020],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_020.mp3"
-			},
-			{
-				"id":21,
-				"title":"Avatar 21",
-				"description":"",
-				"highlights":[""],
-				"date":[4,2,2021],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_021.mp3"
-			},
-			{
-				"id":22,
-				"title":"Avatar 22",
-				"description":"",
-				"highlights":[""],
-				"date":[4,5,2021],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_022.mp3"
-			},
-			{
-				"id":23,
-				"title":"Avatar 23",
-				"description":"",
-				"highlights":[""],
-				"date":[4,16,2021],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_023.mp3"
-			},
-			{
-				"id":24,
-				"title":"Avatar 24",
-				"description":"",
-				"highlights":[""],
-				"date":[4,26,2021],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_024.mp3"
-			},
-			{
-				"id":25,
-				"title":"The Trial",
-				"description":"",
-				"highlights":[""],
-				"date":[5,6,2021],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_025.mp3"
-			},
-			{
-				"id":26,
-				"title":"Avatar 26",
-				"description":"",
-				"highlights":[""],
-				"date":[5,20,2021],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_026.mp3"
-			},
-			{
-				"id":27,
-				"title":"Avatar 27",
-				"description":"",
-				"highlights":[""],
-				"date":[5,24,2021],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_027.mp3"
-			},
-			{
-				"id":28,
-				"title":"Avatar 28",
-				"description":"",
-				"highlights":[""],
-				"date":[5,29,2021],
-				"url":"http://enuestudios.com/DND/Avatar/Avatar_028.mp3"
-			}
-		]
-	},
-	{
-		"id":4,
-		"title":"The Toymaker's Gift",
-		"sessions":[
-			{
-				"id":1,
-				"title":"The Toymaker's Gift - Episode 1",
-				"description":"",
-				"highlights":[""],
-				"date":[7,30,2021],
-				"url":"http://enuestudios.com/DND/The_Toymakers_Gift/TTG_001.mp3"
-			},
-			{
-				"id":2,
-				"title":"The Toymaker's Gift - Episode 2",
-				"description":"",
-				"highlights":[""],
-				"date":[8,2,2021],
-				"url":"http://enuestudios.com/DND/The_Toymakers_Gift/TTG_002.mp3"
-			},
-			{
-				"id":3,
-				"title":"The Toymaker's Gift - Episode 3",
-				"description":"",
-				"highlights":[""],
-				"date":[9,4,2021],
-				"url":"http://enuestudios.com/DND/The_Toymakers_Gift/TTG_003.mp3"
-			}
-		]
-	},
-	{
-		"id":5,
-		"title":"The Secret of Karnov Mansion",
-		"sessions":[
-			{
-				"id":1,
-				"title":"The Secret of Karnov Mansion",
-				"description":"",
-				"highlights":[""],
-				"date":[10,31,2020],
-				"url":"http://enuestudios.com/DND/The_Secret_of_Karnov_Mansion/The_Secret_of_Karnov_Mansion.mp3"
-			}
-		]
-	},
-	{
-		"id":6,
-		"title":"Phandalin",
-		"sessions":[
-			{
-				"id":1,
-				"title":"Phandalin 01",
-				"description":"",
-				"highlights":[""],
-				"date":[6,20,2020],
-				"url":"http://enuestudios.com/DND/Phandalin/Phandalin_001.mp3"
-			},
-			{
-				"id":2,
-				"title":"Phandalin 02",
-				"description":"",
-				"highlights":[""],
-				"date":[6,21,2020],
-				"url":"http://enuestudios.com/DND/Phandalin/Phandalin_002.mp3"
-			},
-			{
-				"id":3,
-				"title":"Phandalin 03",
-				"description":"",
-				"highlights":[""],
-				"date":[6,26,2020],
-				"url":"http://enuestudios.com/DND/Phandalin/Phandalin_003.mp3"
-			},
-			{
-				"id":4,
-				"title":"Phandalin 04",
-				"description":"",
-				"highlights":[""],
-				"date":[7,4,2020],
-				"url":"http://enuestudios.com/DND/Phandalin/Phandalin_004.mp3"
-			},
-			{
-				"id":5,
-				"title":"Phandalin 05",
-				"description":"",
-				"highlights":[""],
-				"date":[7,5,2020],
-				"url":"http://enuestudios.com/DND/Phandalin/Phandalin_005.mp3"
-			},
-			{
-				"id":6,
-				"title":"Phandalin 06",
-				"description":"",
-				"highlights":[""],
-				"date":[7,11,2020],
-				"url":"http://enuestudios.com/DND/Phandalin/Phandalin_006.mp3"
-			},
-			{
-				"id":7,
-				"title":"Phandalin 07",
-				"description":"",
-				"highlights":[""],
-				"date":[7,12,2020],
-				"url":"http://enuestudios.com/DND/Phandalin/Phandalin_007.mp3"
-			},
-			{
-				"id":8,
-				"title":"Phandalin 08",
-				"description":"",
-				"highlights":[""],
-				"date":[7,16,2020],
-				"url":"http://enuestudios.com/DND/Phandalin/Phandalin_008.mp3"
-			},
-			{
-				"id":9,
-				"title":"Phandalin 09",
-				"description":"",
-				"highlights":[""],
-				"date":[7,23,2020],
-				"url":"http://enuestudios.com/DND/Phandalin/Phandalin_009.mp3"
-			},
-			{
-				"id":10,
-				"title":"Phandalin 10",
-				"description":"",
-				"highlights":[""],
-				"date":[7,30,2020],
-				"url":"http://enuestudios.com/DND/Phandalin/Phandalin_010.mp3"
-			},
-			{
-				"id":11,
-				"title":"Phandalin 11",
-				"description":"",
-				"highlights":[""],
-				"date":[8,14,2020],
-				"url":"http://enuestudios.com/DND/Phandalin/Phandalin_011.mp3"
-			}
-		]
-	},
-	{
-		"id":7,
-		"title":"Jakarta",
-		"sessions":[
-			{
-				"id":1,
-				"title":"The Final Battle",
-				"description":"",
-				"highlights":[""],
-				"date":[8,2,2020],
-				"url":"http://enuestudios.com/DND/Jakarta/Jakarta_001.mp3"
-			}
-		]
-	}
+  {
+    "id": 1,
+    "title": "Harry Potter and the Next Generation",
+    "sessions": [
+      {
+        "id": 1,
+        "title": "Letters from Hogwarts",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          4,
+          2,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_001.mp3"
+      },
+      {
+        "id": 2,
+        "title": "Through the Brick Wall",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          4,
+          9,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_002.mp3"
+      },
+      {
+        "id": 3,
+        "title": "Buying Supplies",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          4,
+          16,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_003.mp3"
+      },
+      {
+        "id": 4,
+        "title": "Owls & Potions",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          4,
+          23,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_004.mp3"
+      },
+      {
+        "id": 5,
+        "title": "House Keeping",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          4,
+          30,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_005.mp3"
+      },
+      {
+        "id": 6,
+        "title": "Never Eat a Pie",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          5,
+          7,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_006.mp3"
+      },
+      {
+        "id": 7,
+        "title": "The Hogwarts Express",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          5,
+          14,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_007.mp3"
+      },
+      {
+        "id": 8,
+        "title": "Duel on The Hogwarts Express",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          5,
+          28,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_008.mp3"
+      },
+      {
+        "id": 9,
+        "title": "The Sorting",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          6,
+          11,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_009.mp3"
+      },
+      {
+        "id": 10,
+        "title": "Night Out",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          6,
+          18,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_010.mp3"
+      },
+      {
+        "id": 11,
+        "title": "Unseen Revealed",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          7,
+          2,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_011.mp3"
+      },
+      {
+        "id": 12,
+        "title": "Trouble in the Greenhouse",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          7,
+          9,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_012.mp3"
+      },
+      {
+        "id": 13,
+        "title": "A Key Loss",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          7,
+          16,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_013.mp3"
+      },
+      {
+        "id": 14,
+        "title": "Medics and McGonagall",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          7,
+          30,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_014.mp3"
+      },
+      {
+        "id": 15,
+        "title": "Locked Down",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          8,
+          6,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_015.mp3"
+      },
+      {
+        "id": 16,
+        "title": "Breakfast and Clubs",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          8,
+          13,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_016.mp3"
+      },
+      {
+        "id": 17,
+        "title": "Lumos!",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          8,
+          20,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_017.mp3"
+      },
+      {
+        "id": 18,
+        "title": "Room of Illusions",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          8,
+          27,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_018.mp3"
+      },
+      {
+        "id": 19,
+        "title": "Muggle Studies and the Serpent’s Surprise",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          9,
+          3,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_019.mp3"
+      },
+      {
+        "id": 20,
+        "title": "The Knights of Pendragon",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          9,
+          10,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_020.mp3"
+      },
+      {
+        "id": 21,
+        "title": "The Last to Sign, First to Read",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          9,
+          17,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_021.mp3"
+      },
+      {
+        "id": 22,
+        "title": "Reflections of Death",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          9,
+          24,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_022.mp3"
+      },
+      {
+        "id": 23,
+        "title": "The End of Flying Class",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          10,
+          1,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_023.mp3"
+      },
+      {
+        "id": 24,
+        "title": "Potions Class",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          10,
+          15,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_024.mp3"
+      },
+      {
+        "id": 25,
+        "title": "To the Press!",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          10,
+          22,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_025.mp3"
+      },
+      {
+        "id": 26,
+        "title": "Clubbin'",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          10,
+          29,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_026.mp3"
+      },
+      {
+        "id": 27,
+        "title": "Dueling and Booking It",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          11,
+          12,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_027.mp3"
+      },
+      {
+        "id": 28,
+        "title": "Stars and Slugs",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          12,
+          17,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_028.mp3"
+      },
+      {
+        "id": 29,
+        "title": "The Chamber of Secrets",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          12,
+          28,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_029.mp3"
+      },
+      {
+        "id": 30,
+        "title": "The Tale of Morgana Pendragaon",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          1,
+          11,
+          2026
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_030.mp3"
+      },
+      {
+        "id": 31,
+        "title": "Pounce with a Panther",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          2,
+          8,
+          2026
+        ],
+        "url": "http://enuestudios.com/DND/Hogwarts/Potter_031.mp3"
+      },
+      {
+        "id": 313,
+        "title": "Test",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          2026,
+          2,
+          10
+        ],
+        "url": "https://enuestudios.com/DND/Hogwarts/Potter_313.mp3"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "The Curse of Strahd",
+    "sessions": [
+      {
+        "id": 1,
+        "title": "Welcome to Daggerford",
+        "description": "",
+        "highlights": [
+          "01:37:07 - story about meeting Strahd"
+        ],
+        "date": [
+          9,
+          18,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_001.mp3"
+      },
+      {
+        "id": 2,
+        "title": "The House of Deathly Illusion",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          9,
+          24,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_002.mp3"
+      },
+      {
+        "id": 3,
+        "title": "Baby Battle in the Basement",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          9,
+          27,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_003.mp3"
+      },
+      {
+        "id": 4,
+        "title": "Interview With a Vampire",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          10,
+          8,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_004.mp3"
+      },
+      {
+        "id": 5,
+        "title": "The Woman in Red",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          10,
+          25,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_005.mp3"
+      },
+      {
+        "id": 6,
+        "title": "Mill of the Night Hags",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          10,
+          30,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_006.mp3"
+      },
+      {
+        "id": 7,
+        "title": "Through the Gates of Vallaki",
+        "description": "",
+        "highlights": [
+          "We arrive at the Blue Water Inn to stay the night."
+        ],
+        "date": [
+          11,
+          5,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_007.mp3"
+      },
+      {
+        "id": 8,
+        "title": "Shopping Spree",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          11,
+          15,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_008.mp3"
+      },
+      {
+        "id": 9,
+        "title": "A Bolt of Kindness",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          11,
+          29,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_009.mp3"
+      },
+      {
+        "id": 10,
+        "title": "Jailbreak",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          12,
+          10,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_010.mp3"
+      },
+      {
+        "id": 11,
+        "title": "Viva la Résistance",
+        "description": "",
+        "highlights": [
+          "Ernst helps us escape Izek and his guards.",
+          "Gaetano posses as a bum to throw off guards.",
+          "We are brought to Lady Watcher and are introduced to the resistance.",
+          "Lady watcher commissions us to capture the Burgomaster, Baron Vargas Vallakovich, and kill Izek for the murder of her husband."
+        ],
+        "date": [
+          12,
+          13,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_011.mp3"
+      },
+      {
+        "id": 12,
+        "title": "The Burgermeister's Abode",
+        "description": "",
+        "highlights": [
+          "Megren is the first to enter the burgermeister's house.",
+          "Zilla enters a diningroom after barely evading a guard.",
+          "Gaetano enters a second story bedroom window and finds a short sword.",
+          "Kenrue enters the backroom with Megren",
+          "Megren and Sarah check the first floor hallway and notice there are bundles of sticks all over the place.",
+          "36:29",
+          "Kenrue sneaks up stairs, snufs out a flame so he is hidden, and notices a guard at the other end of the hallway.",
+          "Megren casts infestation, which makes the guard think he is covered in fleas.",
+          "Gaetano enters the hallway and decides to pick open a locked door. Behind the door is a cell that holds all of our things!",
+          "Emerging from the bathroom, the guard catches Zilla, Megren, and Kenrue in the hallway.",
+          "Zilla puts the guard to sleep and then is immediately granted the power of teleportation.",
+          "She teleports into the locked room that she is standing next to, which turns out to be a study.",
+          "Zilla grabs a book 'Poetry Anthology', unlocks the door, and exits into the hallway.",
+          "Gaetano notices a guard is coming up the main stairway in the front.",
+          "Zilla teleports into another room with a wedding dress. She hears snoring coming from the behind a door.",
+          "Gaetano dresses in the sleeping guard's outfit and posses as him in the darkness to fool the other guard.",
+          "Zilla sneaks into the room where she heard snoring and finds the burgermeister and his wife asleep in their bed. She also notices a door in the ceiling.",
+          "Zilla climbs through the door into a small room in the attic. She opens a door to reveal the room that Gaetano, Megren, and Kenrue were imprisoned in 2 sessions ago.",
+          "The guard becomes suspicious of Gaetano's disguise, so Kenrue steps out right in the face of the guard, and commands him to lock himself in the cell at the end of the hall."
+        ],
+        "date": [
+          12,
+          18,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_012.mp3"
+      },
+      {
+        "id": 13,
+        "title": "A Meeting With Izek",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          1,
+          19,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_013.mp3"
+      },
+      {
+        "id": 14,
+        "title": "The Sacred Bones Relay",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          1,
+          24,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_014.mp3"
+      },
+      {
+        "id": 15,
+        "title": "The Festival of the Blazing Sun",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          1,
+          31,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_015.mp3"
+      },
+      {
+        "id": 16,
+        "title": "Let It Burn",
+        "description": "",
+        "highlights": [
+          "One third of the town burned. Unfortunately only some of the records could be recovered from this session."
+        ],
+        "date": [
+          2,
+          7,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_016.mp3"
+      },
+      {
+        "id": 17,
+        "title": "Clash With the New Regime",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          2,
+          15,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_017.mp3"
+      },
+      {
+        "id": 18,
+        "title": "A Horse and a Goat",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          2,
+          22,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_018.mp3"
+      },
+      {
+        "id": 19,
+        "title": "A Death at Lake Zarovich",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          3,
+          7,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_019.mp3"
+      },
+      {
+        "id": 20,
+        "title": "To Dine With the Devil",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          3,
+          14,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_020.mp3"
+      },
+      {
+        "id": 21,
+        "title": "Fuck, Marry, Kill",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          3,
+          21,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_021.mp3"
+      },
+      {
+        "id": 22,
+        "title": "Spiders and Skeletons",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          4,
+          4,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_022.mp3"
+      },
+      {
+        "id": 23,
+        "title": "A Night-Time Stroll",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          4,
+          6,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_023.mp3"
+      },
+      {
+        "id": 24,
+        "title": "Dances With Wolves",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          4,
+          11,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_024.mp3"
+      },
+      {
+        "id": 25,
+        "title": "A Night in Terror Tower",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          4,
+          25,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_025.mp3"
+      },
+      {
+        "id": 26,
+        "title": "The Blight of the Vinyard",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          4,
+          29,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_026.mp3"
+      },
+      {
+        "id": 27,
+        "title": "Inside the Winery",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          5,
+          2,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_027.mp3"
+      },
+      {
+        "id": 28,
+        "title": "Master of Plants",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          5,
+          9,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_028.mp3"
+      },
+      {
+        "id": 29,
+        "title": "The E! True Barovian Story: Strahd Von Zarovich",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          5,
+          12,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_029.mp3"
+      },
+      {
+        "id": 30,
+        "title": "Unstable Ground",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          5,
+          16,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_030.mp3"
+      },
+      {
+        "id": 31,
+        "title": "The Straw Man Defense",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          5,
+          18,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_031.mp3"
+      },
+      {
+        "id": 32,
+        "title": "Sticks and a Stone",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          5,
+          23,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_032.mp3"
+      },
+      {
+        "id": 33,
+        "title": "Stepping Into Death",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          5,
+          30,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_033.mp3"
+      },
+      {
+        "id": 34,
+        "title": "Mama Drama",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          6,
+          13,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_034.mp3"
+      },
+      {
+        "id": 35,
+        "title": "A Line in the Sand",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          6,
+          20,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_035.mp3"
+      },
+      {
+        "id": 36,
+        "title": "The Mystery of the Russian Glutton",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          7,
+          5,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_036.mp3"
+      },
+      {
+        "id": 37,
+        "title": "Third Eye Bald",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          7,
+          7,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_037.mp3"
+      },
+      {
+        "id": 38,
+        "title": "Judicial Escalation",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          7,
+          11,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_038.mp3"
+      },
+      {
+        "id": 39,
+        "title": "A Night Hag Haunting",
+        "description": "",
+        "highlights": [
+          "Ending recap at 1:03:10"
+        ],
+        "date": [
+          7,
+          21,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_039.mp3"
+      },
+      {
+        "id": 40,
+        "title": "The Heart of a Child",
+        "description": "",
+        "highlights": [],
+        "date": [
+          8,
+          5,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_040.mp3"
+      },
+      {
+        "id": 41,
+        "title": "Witch Hunt",
+        "description": "",
+        "highlights": [],
+        "date": [
+          8,
+          16,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_041.mp3"
+      },
+      {
+        "id": 42,
+        "title": "Bad Decisions",
+        "description": "",
+        "highlights": [],
+        "date": [
+          10,
+          17,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_042.mp3"
+      },
+      {
+        "id": 43,
+        "title": "Abandoning the Abbot",
+        "description": "",
+        "highlights": [],
+        "date": [
+          10,
+          24,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_043.mp3"
+      },
+      {
+        "id": 44,
+        "title": "Wolf Hunt",
+        "description": "",
+        "highlights": [],
+        "date": [
+          10,
+          28,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_044.mp3"
+      },
+      {
+        "id": 45,
+        "title": "Separated",
+        "description": "",
+        "highlights": [],
+        "date": [
+          11,
+          1,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_045.mp3"
+      },
+      {
+        "id": 46,
+        "title": "Into the Wereden",
+        "description": "",
+        "highlights": [],
+        "date": [
+          11,
+          7,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_046.mp3"
+      },
+      {
+        "id": 47,
+        "title": "Kiril's Trap",
+        "description": "",
+        "highlights": [],
+        "date": [
+          11,
+          14,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_047.mp3"
+      },
+      {
+        "id": 48,
+        "title": "A Twist of Tails",
+        "description": "",
+        "highlights": [],
+        "date": [
+          11,
+          21,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_048.mp3"
+      },
+      {
+        "id": 49,
+        "title": "A Fury Furries",
+        "description": "",
+        "highlights": [],
+        "date": [
+          11,
+          28,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_049.mp3"
+      },
+      {
+        "id": 50,
+        "title": "Into the Mountain",
+        "description": "",
+        "highlights": [],
+        "date": [
+          12,
+          14,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_050.mp3"
+      },
+      {
+        "id": 51,
+        "title": "Between a Rock and a Hard Place",
+        "description": "",
+        "highlights": [],
+        "date": [
+          12,
+          21,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_051.mp3"
+      },
+      {
+        "id": 52,
+        "title": "Soul Sucking Jerks",
+        "description": "",
+        "highlights": [],
+        "date": [
+          12,
+          31,
+          2022
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_052.mp3"
+      },
+      {
+        "id": 53,
+        "title": "Gaetano Bresci's Travel Guide to Romania",
+        "description": "",
+        "highlights": [],
+        "date": [
+          1,
+          4,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_053.mp3"
+      },
+      {
+        "id": 54,
+        "title": "Yurts and Stingers",
+        "description": "",
+        "highlights": [],
+        "date": [
+          1,
+          18,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_054.mp3"
+      },
+      {
+        "id": 55,
+        "title": "The Sound of War: A Declaration Echoes",
+        "description": "",
+        "highlights": [],
+        "date": [
+          2,
+          6,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_055.mp3"
+      },
+      {
+        "id": 56,
+        "title": "Undead Experimentation",
+        "description": "",
+        "highlights": [],
+        "date": [
+          2,
+          20,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_056.mp3"
+      },
+      {
+        "id": 57,
+        "title": "An Avalanche of Thrills",
+        "description": "",
+        "highlights": [],
+        "date": [
+          3,
+          6,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_057.mp3"
+      },
+      {
+        "id": 58,
+        "title": "The Cave of Living Death",
+        "description": "",
+        "highlights": [],
+        "date": [
+          3,
+          15,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_058.mp3"
+      },
+      {
+        "id": 59,
+        "title": "Bird of Pray",
+        "description": "",
+        "highlights": [],
+        "date": [
+          3,
+          20,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_059.mp3"
+      },
+      {
+        "id": 60,
+        "title": "Possession is 9/10s of the Gore",
+        "description": "",
+        "highlights": [],
+        "date": [
+          3,
+          29,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_060.mp3"
+      },
+      {
+        "id": 61,
+        "title": "The Gang Goes Left",
+        "description": "",
+        "highlights": [],
+        "date": [
+          4,
+          4,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_061.mp3"
+      },
+      {
+        "id": 62,
+        "title": "The Gang Goes Right",
+        "description": "",
+        "highlights": [],
+        "date": [
+          4,
+          13,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_062.mp3"
+      },
+      {
+        "id": 63,
+        "title": "The Mage and the Wolf",
+        "description": "",
+        "highlights": [],
+        "date": [
+          4,
+          19,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_063.mp3"
+      },
+      {
+        "id": 64,
+        "title": "The Library Runaround",
+        "description": "",
+        "highlights": [],
+        "date": [
+          4,
+          26,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_064.mp3"
+      },
+      {
+        "id": 65,
+        "title": "WHERE THE F%$# IS THE LIBRARY??",
+        "description": "",
+        "highlights": [],
+        "date": [
+          5,
+          11,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_065.mp3"
+      },
+      {
+        "id": 66,
+        "title": "House of the Dying Gods",
+        "description": "",
+        "highlights": [],
+        "date": [
+          5,
+          17,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_066.mp3"
+      },
+      {
+        "id": 67,
+        "title": "Infomus Dumpus",
+        "description": "",
+        "highlights": [],
+        "date": [
+          5,
+          31,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_067.mp3"
+      },
+      {
+        "id": 68,
+        "title": "The Library Wrap-Up",
+        "description": "",
+        "highlights": [],
+        "date": [
+          6,
+          7,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_068.mp3"
+      },
+      {
+        "id": 69,
+        "title": "Tears On My Pillow",
+        "description": "",
+        "highlights": [],
+        "date": [
+          6,
+          14,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_069.mp3"
+      },
+      {
+        "id": 70,
+        "title": "The Death of Tatyana",
+        "description": "",
+        "highlights": [
+          "1:08:14 - The Death of tatyana"
+        ],
+        "date": [
+          7,
+          12,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_070.mp3"
+      },
+      {
+        "id": 71,
+        "title": "A Stake of Kindness",
+        "description": "",
+        "highlights": [],
+        "date": [
+          7,
+          19,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_071.mp3"
+      },
+      {
+        "id": 72,
+        "title": "A Fleet of Fools",
+        "description": "",
+        "highlights": [],
+        "date": [
+          7,
+          26,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_072.mp3"
+      },
+      {
+        "id": 73,
+        "title": "Which Swamp? WITCH SWAMP!",
+        "description": "",
+        "highlights": [],
+        "date": [
+          8,
+          2,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_073.mp3"
+      },
+      {
+        "id": 74,
+        "title": "The Terrifying Glare",
+        "description": "",
+        "highlights": [],
+        "date": [
+          8,
+          9,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_074.mp3"
+      },
+      {
+        "id": 75,
+        "title": "Flower of the Black Rose",
+        "description": "",
+        "highlights": [],
+        "date": [
+          8,
+          16,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_075.mp3"
+      },
+      {
+        "id": 76,
+        "title": "\"Somewhere Under the Rainbow",
+        "description": "",
+        "highlights": [],
+        "date": [
+          9,
+          6,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_076.mp3"
+      },
+      {
+        "id": 77,
+        "title": "Skies Are Black",
+        "description": "",
+        "highlights": [],
+        "date": [
+          9,
+          13,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_077.mp3"
+      },
+      {
+        "id": 78,
+        "title": "There's a Heart That I Tore Out Once",
+        "description": "",
+        "highlights": [],
+        "date": [
+          9,
+          27,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_078.mp3"
+      },
+      {
+        "id": 79,
+        "title": "And a Fane Came Back\"",
+        "description": "",
+        "highlights": [],
+        "date": [
+          10,
+          4,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_079.mp3"
+      },
+      {
+        "id": 80,
+        "title": "Dawn and Dusk of the Dead",
+        "description": "",
+        "highlights": [],
+        "date": [
+          10,
+          18,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_080.mp3"
+      },
+      {
+        "id": 81,
+        "title": "On the Good Ship \"Rivefied\"",
+        "description": "",
+        "highlights": [],
+        "date": [
+          10,
+          25,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_081.mp3"
+      },
+      {
+        "id": 82,
+        "title": "The Deep Bellow",
+        "description": "",
+        "highlights": [],
+        "date": [
+          11,
+          1,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_082.mp3"
+      },
+      {
+        "id": 83,
+        "title": "Spectral Sympathy",
+        "description": "",
+        "highlights": [],
+        "date": [
+          11,
+          8,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_083.mp3"
+      },
+      {
+        "id": 84,
+        "title": "Midnight Attack",
+        "description": "",
+        "highlights": [],
+        "date": [
+          11,
+          15,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_084.mp3"
+      },
+      {
+        "id": 85,
+        "title": "So Long, Suckas",
+        "description": "",
+        "highlights": [],
+        "date": [
+          11,
+          29,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_085.mp3"
+      },
+      {
+        "id": 86,
+        "title": "The Battle of Attrition",
+        "description": "",
+        "highlights": [],
+        "date": [
+          12,
+          6,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_086.mp3"
+      },
+      {
+        "id": 87,
+        "title": "The Fall of the House of Venus",
+        "description": "",
+        "highlights": [],
+        "date": [
+          12,
+          13,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_087.mp3"
+      },
+      {
+        "id": 88,
+        "title": "Lord Argynvost: The Dragon King",
+        "description": "",
+        "highlights": [],
+        "date": [
+          12,
+          20,
+          2023
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_088.mp3"
+      },
+      {
+        "id": 89,
+        "title": "Faries and Shopping",
+        "description": "",
+        "highlights": [],
+        "date": [
+          1,
+          17,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_089.mp3"
+      },
+      {
+        "id": 90,
+        "title": "Home James, and Don't Spare the Horses",
+        "description": "",
+        "highlights": [],
+        "date": [
+          1,
+          24,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_090.mp3"
+      },
+      {
+        "id": 91,
+        "title": "A Wedding Rescheduled",
+        "description": "",
+        "highlights": [],
+        "date": [
+          3,
+          6,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_091.mp3"
+      },
+      {
+        "id": 92,
+        "title": "The Ungrateful Knights of the Silver Dragon",
+        "description": "",
+        "highlights": [],
+        "date": [
+          3,
+          13,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_092.mp3"
+      },
+      {
+        "id": 93,
+        "title": "Sphere of Angels",
+        "description": "",
+        "highlights": [],
+        "date": [
+          3,
+          20,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_093.mp3"
+      },
+      {
+        "id": 94,
+        "title": "Ring of Fire",
+        "description": "",
+        "highlights": [],
+        "date": [
+          3,
+          27,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_094.mp3"
+      },
+      {
+        "id": 95,
+        "title": "Bear Paw Immolation",
+        "description": "",
+        "highlights": [],
+        "date": [
+          4,
+          10,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_095.mp3"
+      },
+      {
+        "id": 96,
+        "title": "A Grave Defeat",
+        "description": "",
+        "highlights": [],
+        "date": [
+          4,
+          17,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_096.mp3"
+      },
+      {
+        "id": 97,
+        "title": "Never do a Side Quest",
+        "description": "",
+        "highlights": [],
+        "date": [
+          5,
+          1,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_097.mp3"
+      },
+      {
+        "id": 98,
+        "title": "The Merchant's Wife",
+        "description": "",
+        "highlights": [],
+        "date": [
+          5,
+          8,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_098.mp3"
+      },
+      {
+        "id": 99,
+        "title": "The Hive of Horror",
+        "description": "",
+        "highlights": [],
+        "date": [
+          5,
+          29,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_099.mp3"
+      },
+      {
+        "id": 100,
+        "title": "The Centenial Shutdown",
+        "description": "",
+        "highlights": [],
+        "date": [
+          6,
+          12,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_100.mp3"
+      },
+      {
+        "id": 101,
+        "title": "The Doppelganger Duel - Part 1",
+        "description": "",
+        "highlights": [],
+        "date": [
+          6,
+          19,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_101.mp3"
+      },
+      {
+        "id": 102,
+        "title": "The Doppelganger Duel - Part 2",
+        "description": "",
+        "highlights": [],
+        "date": [
+          7,
+          3,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_102.mp3"
+      },
+      {
+        "id": 103,
+        "title": "The Doppelganger Duel - Part 3",
+        "description": "",
+        "highlights": [],
+        "date": [
+          7,
+          17,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_103.mp3"
+      },
+      {
+        "id": 104,
+        "title": "The Devil's in the Details",
+        "description": "",
+        "highlights": [],
+        "date": [
+          7,
+          31,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_104.mp3"
+      },
+      {
+        "id": 105,
+        "title": "Bartering with Fate",
+        "description": "",
+        "highlights": [],
+        "date": [
+          8,
+          7,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_105.mp3"
+      },
+      {
+        "id": 106,
+        "title": "Primed and Ready to Meet",
+        "description": "",
+        "highlights": [],
+        "date": [
+          9,
+          4,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_106.mp3"
+      },
+      {
+        "id": 107,
+        "title": "CIA",
+        "description": "",
+        "highlights": [],
+        "date": [
+          9,
+          11,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_107.mp3"
+      },
+      {
+        "id": 108,
+        "title": "The Battle of Vallaki",
+        "description": "",
+        "highlights": [],
+        "date": [
+          9,
+          18,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_108.mp3"
+      },
+      {
+        "id": 109,
+        "title": "Boogers and Blood",
+        "description": "",
+        "highlights": [],
+        "date": [
+          10,
+          9,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_109.mp3"
+      },
+      {
+        "id": 110,
+        "title": "Make Vallaki Burn Again",
+        "description": "",
+        "highlights": [],
+        "date": [
+          10,
+          23,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_110.mp3"
+      },
+      {
+        "id": 111,
+        "title": "Caught in a Bind",
+        "description": "",
+        "highlights": [],
+        "date": [
+          10,
+          30,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_111.mp3"
+      },
+      {
+        "id": 112,
+        "title": "Wedding Prep",
+        "description": "",
+        "highlights": [],
+        "date": [
+          11,
+          6,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_112.mp3"
+      },
+      {
+        "id": 113,
+        "title": "The Wedding",
+        "description": "",
+        "highlights": [],
+        "date": [
+          12,
+          4,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_113.mp3"
+      },
+      {
+        "id": 114,
+        "title": "Strahdagey",
+        "description": "",
+        "highlights": [],
+        "date": [
+          12,
+          11,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_114.mp3"
+      },
+      {
+        "id": 115,
+        "title": "Cakes and Doors",
+        "description": "",
+        "highlights": [],
+        "date": [
+          12,
+          18,
+          2024
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_115.mp3"
+      },
+      {
+        "id": 116,
+        "title": "Out the Window Again",
+        "description": "",
+        "highlights": [],
+        "date": [
+          1,
+          15,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_116.mp3"
+      },
+      {
+        "id": 117,
+        "title": "Ding dong the king is... dead?",
+        "description": "",
+        "highlights": [],
+        "date": [
+          1,
+          22,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_117.mp3"
+      },
+      {
+        "id": 118,
+        "title": "Lights Out",
+        "description": "",
+        "highlights": [],
+        "date": [
+          2,
+          19,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_118.mp3"
+      },
+      {
+        "id": 119,
+        "title": "De-Mistified",
+        "description": "",
+        "highlights": [],
+        "date": [
+          3,
+          13,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_119.mp3"
+      },
+      {
+        "id": 120,
+        "title": "The Closing",
+        "description": "",
+        "highlights": [],
+        "date": [
+          3,
+          13,
+          2025
+        ],
+        "url": "http://enuestudios.com/DND/Strahd/Strahd_120.mp3"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Avatar",
+    "sessions": [
+      {
+        "id": 1,
+        "title": "Avatar 01",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          7,
+          25,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_001.mp3"
+      },
+      {
+        "id": 2,
+        "title": "Avatar 02",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          7,
+          26,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_002.mp3"
+      },
+      {
+        "id": 3,
+        "title": "Avatar 03",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          8,
+          1,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_003.mp3"
+      },
+      {
+        "id": 4,
+        "title": "Avatar 04",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          8,
+          9,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_004.mp3"
+      },
+      {
+        "id": 5,
+        "title": "Avatar 05",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          8,
+          16,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_005.mp3"
+      },
+      {
+        "id": 6,
+        "title": "Avatar 06",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          8,
+          22,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_006.mp3"
+      },
+      {
+        "id": 7,
+        "title": "Avatar 07",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          9,
+          1,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_007.mp3"
+      },
+      {
+        "id": 8,
+        "title": "Avatar 08",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          9,
+          8,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_008.mp3"
+      },
+      {
+        "id": 9,
+        "title": "Avatar 09",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          9,
+          12,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_009.mp3"
+      },
+      {
+        "id": 10,
+        "title": "How Not to Free a Town",
+        "description": "",
+        "highlights": [
+          "The gang attempts to team up with children to rid the town of fire nation control",
+          "Things do not go as planned"
+        ],
+        "date": [
+          9,
+          17,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_010.mp3"
+      },
+      {
+        "id": 11,
+        "title": "The Great Escape",
+        "description": "",
+        "highlights": [
+          "After facing certain death the gang fatefully escapes the Fire Nation"
+        ],
+        "date": [
+          9,
+          19,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_011.mp3"
+      },
+      {
+        "id": 12,
+        "title": "Avatar 12",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          9,
+          23,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_012.mp3"
+      },
+      {
+        "id": 13,
+        "title": "Avatar 13",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          9,
+          26,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_013.mp3"
+      },
+      {
+        "id": 14,
+        "title": "Avatar 14",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          9,
+          30,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_014.mp3"
+      },
+      {
+        "id": 15,
+        "title": "Avatar 15",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          10,
+          8,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_015.mp3"
+      },
+      {
+        "id": 16,
+        "title": "Avatar 16",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          10,
+          11,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_016.mp3"
+      },
+      {
+        "id": 17,
+        "title": "Avatar 17",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          10,
+          17,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_017.mp3"
+      },
+      {
+        "id": 18,
+        "title": "Avatar 18",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          10,
+          22,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_018.mp3"
+      },
+      {
+        "id": 19,
+        "title": "Avatar 19",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          10,
+          25,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_019.mp3"
+      },
+      {
+        "id": 20,
+        "title": "Avatar 20",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          11,
+          14,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_020.mp3"
+      },
+      {
+        "id": 21,
+        "title": "Avatar 21",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          4,
+          2,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_021.mp3"
+      },
+      {
+        "id": 22,
+        "title": "Avatar 22",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          4,
+          5,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_022.mp3"
+      },
+      {
+        "id": 23,
+        "title": "Avatar 23",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          4,
+          16,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_023.mp3"
+      },
+      {
+        "id": 24,
+        "title": "Avatar 24",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          4,
+          26,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_024.mp3"
+      },
+      {
+        "id": 25,
+        "title": "The Trial",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          5,
+          6,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_025.mp3"
+      },
+      {
+        "id": 26,
+        "title": "Avatar 26",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          5,
+          20,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_026.mp3"
+      },
+      {
+        "id": 27,
+        "title": "Avatar 27",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          5,
+          24,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_027.mp3"
+      },
+      {
+        "id": 28,
+        "title": "Avatar 28",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          5,
+          29,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/Avatar/Avatar_028.mp3"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "The Toymaker's Gift",
+    "sessions": [
+      {
+        "id": 1,
+        "title": "The Toymaker's Gift - Episode 1",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          7,
+          30,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/The_Toymakers_Gift/TTG_001.mp3"
+      },
+      {
+        "id": 2,
+        "title": "The Toymaker's Gift - Episode 2",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          8,
+          2,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/The_Toymakers_Gift/TTG_002.mp3"
+      },
+      {
+        "id": 3,
+        "title": "The Toymaker's Gift - Episode 3",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          9,
+          4,
+          2021
+        ],
+        "url": "http://enuestudios.com/DND/The_Toymakers_Gift/TTG_003.mp3"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "The Secret of Karnov Mansion",
+    "sessions": [
+      {
+        "id": 1,
+        "title": "The Secret of Karnov Mansion",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          10,
+          31,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/The_Secret_of_Karnov_Mansion/The_Secret_of_Karnov_Mansion.mp3"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Phandalin",
+    "sessions": [
+      {
+        "id": 1,
+        "title": "Phandalin 01",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          6,
+          20,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Phandalin/Phandalin_001.mp3"
+      },
+      {
+        "id": 2,
+        "title": "Phandalin 02",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          6,
+          21,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Phandalin/Phandalin_002.mp3"
+      },
+      {
+        "id": 3,
+        "title": "Phandalin 03",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          6,
+          26,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Phandalin/Phandalin_003.mp3"
+      },
+      {
+        "id": 4,
+        "title": "Phandalin 04",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          7,
+          4,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Phandalin/Phandalin_004.mp3"
+      },
+      {
+        "id": 5,
+        "title": "Phandalin 05",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          7,
+          5,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Phandalin/Phandalin_005.mp3"
+      },
+      {
+        "id": 6,
+        "title": "Phandalin 06",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          7,
+          11,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Phandalin/Phandalin_006.mp3"
+      },
+      {
+        "id": 7,
+        "title": "Phandalin 07",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          7,
+          12,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Phandalin/Phandalin_007.mp3"
+      },
+      {
+        "id": 8,
+        "title": "Phandalin 08",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          7,
+          16,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Phandalin/Phandalin_008.mp3"
+      },
+      {
+        "id": 9,
+        "title": "Phandalin 09",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          7,
+          23,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Phandalin/Phandalin_009.mp3"
+      },
+      {
+        "id": 10,
+        "title": "Phandalin 10",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          7,
+          30,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Phandalin/Phandalin_010.mp3"
+      },
+      {
+        "id": 11,
+        "title": "Phandalin 11",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          8,
+          14,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Phandalin/Phandalin_011.mp3"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Jakarta",
+    "sessions": [
+      {
+        "id": 1,
+        "title": "The Final Battle",
+        "description": "",
+        "highlights": [
+          ""
+        ],
+        "date": [
+          8,
+          2,
+          2020
+        ],
+        "url": "http://enuestudios.com/DND/Jakarta/Jakarta_001.mp3"
+      }
+    ]
+  }
 ]
